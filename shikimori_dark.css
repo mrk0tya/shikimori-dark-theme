@@ -337,10 +337,10 @@ header.head h2,
   --link-color: color-mix(in srgb, var(--first), #fff 60%);
   --link-hover-color: color-mix(in srgb, var(--first), #fff 70%);
   &.anime {
-    --first: green;
+    --first: darkblue;
   }
   &.manga {
-    --first: purple;
+    --first: red;
   }
   &.lifetime {
     --first: var(--bar-main);

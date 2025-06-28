@@ -961,16 +961,6 @@ code.b-code_inline {
   }
 }
 
-/* #top #main menu  */
-.l-top_menu-v2,
-.x1000 .l-top_menu-v2 {
-  background: var(--dropdown, var(--bckg-dark));
-  position: -webkit-sticky;
-  position: sticky;
-  inset: 0;
-  margin: auto;
-  max-width: 1700px;
-}
 /* новые уведомление: справа сверху квадратик */
 
 .b-comments-notifier {
